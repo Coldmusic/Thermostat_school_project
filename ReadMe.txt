@@ -1,6 +1,5 @@
 Assignment #2: The Heat Is On: Node.js Internet Of Things
 Author: Margarita Otochkina
-Student Number: 100950500
 
 Description:
 
